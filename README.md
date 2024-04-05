@@ -28,4 +28,4 @@ LogikAbsensi is an application designed to streamline the process of user authen
   - Users can perform time-in and time-out actions only once per day.
 
 ## License
-LogikAbsensi is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+LogikAbsensi is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
